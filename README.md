@@ -79,7 +79,7 @@ This Resume Screening Tool is designed to assist recruiters and job seekers. It 
 
 The process flow of the system is shown below:
 
-![Flowchart](assets/flowchart.png)
+![Flowchart](https://github.com/SD308006/Resume_Screening/blob/main/Flow_chart.png)
 
 ## Project Structure
 
