@@ -1,8 +1,11 @@
 # Resume_Screening
 
+
 # Resume Screening Tool
 
 A web-based application to analyze resumes against job descriptions, calculate similarity scores, and provide skill recommendations.
+
+---
 
 ## Table of Contents
 
@@ -15,13 +18,18 @@ A web-based application to analyze resumes against job descriptions, calculate s
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Development](#development)
+- [Demo Video](#demo-video)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
+---
+
 ## Overview
 
 This Resume Screening Tool is designed to assist recruiters and job seekers. It allows users to upload resumes and compare them with job descriptions using TF-IDF vectorization and cosine similarity. The system calculates match scores and provides recommendations based on missing skills.
+
+---
 
 ## Features
 
@@ -33,6 +41,8 @@ This Resume Screening Tool is designed to assist recruiters and job seekers. It 
 - Generate recommendations to improve resumes.
 - Clean and responsive user interface.
 
+---
+
 ## Installation
 
 ### Prerequisites
@@ -43,43 +53,49 @@ This Resume Screening Tool is designed to assist recruiters and job seekers. It 
 ### Setup Steps
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/your-username/resume-screening-tool.git
    cd resume-screening-tool
    ```
 
 2. Install dependencies:
-
    ```bash
    pip install -r requirements.txt
    ```
 
 3. Run the application:
-
    ```bash
    python app.py
    ```
 
-4. Open your browser and navigate to:
-
+4. Open your browser and visit:
    ```
    http://localhost:5000
    ```
 
+---
+
 ## Usage
 
-- Upload your resume.
-- Enter a job description.
-- Select the job role category.
-- Click "Analyze".
-- View the similarity score, matched skills, missing skills, and tailored recommendations.
+1. Upload your resume.
+2. Enter a job description.
+3. Select the job role category.
+4. Click **"Analyze"**.
+5. View:
+   - Similarity score
+   - Matched skills
+   - Missing skills
+   - Tailored recommendations
+
+---
 
 ## Flowchart
 
-The process flow of the system is shown below:
+The process flow of the system is illustrated below:
 
 ![Flowchart](https://github.com/SD308006/Resume_Screening/blob/main/Flow_chart.png)
+
+---
 
 ## Project Structure
 
@@ -88,55 +104,90 @@ resume-screening-tool/
 │
 ├── app.py                     # Main Flask app
 ├── utils/
-│   ├── preprocess.py         # Text extraction and similarity logic
-│   └── config.py             # Configuration settings
-├── static/                   # Frontend files (HTML, CSS, JS)
+│   ├── preprocess.py          # Text extraction and similarity logic
+│   └── config.py              # Configuration settings
+├── static/                    # Frontend files (HTML, CSS, JS)
 ├── data/
 │   └── UpdatedResumeDataSet.csv
 ├── assets/
-│   └── flowchart.png         # Visual flowchart
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
+│   └── flowchart.png          # Visual flowchart
+├── requirements.txt           # Python dependencies
+└── README.md                  # Project documentation
 ```
+
+---
 
 ## Dependencies
 
 - Flask
 - pandas
 - scikit-learn
+- numpy
 - python-docx
 - PyMuPDF (fitz)
-- numpy
+
+---
 
 ## Configuration
 
-Configuration settings like file upload size and allowed extensions are managed in `utils/config.py`.
+Basic configuration such as file upload limits and allowed file extensions can be adjusted in:
+```
+utils/config.py
+```
+
+---
 
 ## Development
 
-To contribute:
+This project works by using Natural Language Processing (NLP):
+
+- A resume and job description are both turned into text.
+- TF-IDF is used to find important keywords in both texts.
+- Cosine similarity compares them and gives a percentage match.
+- Based on the comparison, it finds what skills are **already there** and what skills are **missing**.
+- It also gives useful suggestions to improve your resume.
+
+The dataset used (`UpdatedResumeDataSet.csv`) is loaded once at startup to dynamically extract top skills for each job category.
+
+---
+
+## Demo Video
+
+You can watch the working demo of this tool here:
+
+**[Watch Video on Google Drive](https://drive.google.com/file/d/1RgS1NJw4zYyGqFg8gobelwQcmgUJlIp6/view?usp=drive_link)**  
+
+
+---
+
+## Contributing
+
+Contributions are welcome. To contribute:
 
 1. Fork the repository
 2. Create a new branch:
    ```bash
    git checkout -b feature-name
    ```
-3. Make changes and commit:
+3. Make your changes and commit:
    ```bash
    git commit -m "Add feature"
    ```
-4. Push and create a Pull Request
+4. Push your branch and open a Pull Request
 
-## Contributing
+Please open an issue for bugs, improvements, or suggestions.
 
-Contributions are welcome. Please open an issue or submit a pull request for any feature requests, bug fixes, or improvements.
+---
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under ----.
+
+---
 
 ## Contact
 
-Developer: Sudipta Das  
-Email: diptasu.das001@gmaail.com  
-Location: Subidbazar, Sylhet, Bangladesh
+**Developer**: Sudipta Das  
+**Email**: diptasu.das001@gmaail.com  
+**Location**: Subidbazar, Sylhet, Bangladesh
+
