@@ -1,0 +1,72 @@
+Job Title: Junior Python Developer 
+
+
+Location: Dhaka, Bangladesh 
+
+
+Career Objective Match: This role is ideal for a passionate and self-motivated Python developer seeking an entry-level position to contribute to impactful projects, enhance coding skills, and grow in a dynamic team environment.
+
+About Us:
+We are a growing tech company focused on developing innovative web applications and automation solutions, seeking a Junior Python Developer to join our team.
+
+Job Description:
+We are looking for a dedicated Junior Python Developer to contribute to our backend development efforts. You will primarily assist in building and maintaining RESTful APIs and developing automation scripts. This position offers a direct opportunity to apply and expand your Python and web development skills within a collaborative setting.
+
+Responsibilities:
+
+Develop automation scripts to handle daily tasks.
+
+Assist in building RESTful APIs using Flask.
+
+Collaborate with the frontend team to integrate backend services.
+
+Utilize Git & GitHub for version control.
+
+Work with MySQL and SQLite databases.
+
+Apply problem-solving and debugging skills to resolve technical issues.
+
+Contribute to the development of web applications, including backend APIs for data management.
+
+Required Skills and Qualifications:
+
+Proven proficiency in Python.
+
+Experience with Flask.
+
+Basic understanding of HTML, CSS, and JavaScript.
+
+Proficient with Git & GitHub.
+
+Experience with MySQL and SQLite.
+
+Demonstrated ability in REST API development.
+
+Strong problem-solving and debugging skills.
+
+Fluent in English and Bengali.
+
+Completion of a B.Sc. in Computer Science & Engineering.
+
+Experience:
+
+Python Intern experience, including developing automation scripts and assisting in building RESTful APIs using Flask, and collaborating with frontend teams to integrate backend services.
+
+Certifications:
+
+Python for Everybody - University of Michigan (Coursera).
+
+Git Essentials - Codecademy.
+
+Projects:
+
+Experience building a Resume Screener Tool (Flask-based) that parses and evaluates resumes using basic NLP.
+
+Developed backend APIs to manage student data for a mock university project (Student Portal Web App).
+
+Education:
+
+B.Sc. in Computer Science & Engineering from BRAC University, completed in 2023.
+
+To Apply:
+Please submit your resume and a brief cover letter. References are available upon request.

@@ -1,0 +1,89 @@
+Job Title: Junior Python Developer
+
+Location: Dhaka, Bangladesh (or Remote within Bangladesh)
+
+About Us:
+We are a dynamic and growing tech company focused on developing innovative web applications and automation solutions. We believe in fostering a collaborative environment where our team members can learn, grow, and contribute to impactful projects.
+
+Job Description:
+We are seeking a passionate and self-motivated Junior Python Developer to join our backend development team. The ideal candidate will have a foundational understanding of Python and web frameworks, eager to learn and contribute to various stages of our software development lifecycle. This role offers an excellent opportunity to enhance your coding skills and grow within a supportive team environment.
+
+Responsibilities:
+
+Assist in the development and maintenance of RESTful APIs using Python frameworks like Flask or Django.
+
+
+
+
+
+Develop automation scripts to streamline internal processes and daily tasks.
+
+Collaborate with front-end developers to integrate backend services and ensure seamless functionality.
+
+Write clean, well-documented, and efficient code.
+
+Participate in code reviews and contribute to improving code quality.
+
+Debug and troubleshoot issues, identifying and implementing effective solutions.
+
+Work with relational databases such as MySQL or SQLite.
+
+
+
+Utilize Git and GitHub for version control and collaborative development.
+
+
+
+Contribute to project documentation and technical specifications.
+
+Required Skills and Qualifications:
+
+Proven understanding of Python programming.
+
+
+
+Basic experience with web frameworks such as Flask or Django.
+
+
+Familiarity with HTML, CSS, and basic JavaScript.
+
+
+Experience with relational databases (e.g., MySQL, SQLite).
+
+
+Proficiency with Git and GitHub for version control.
+
+
+Ability to develop and integrate REST APIs.
+
+
+Strong problem-solving and debugging skills.
+
+Excellent communication and collaboration skills.
+
+Eager to learn new technologies and adapt to dynamic project requirements.
+
+
+Fluent in Bengali and English (written and spoken).
+
+
+Preferred Qualifications (Bonus Points):
+
+Experience contributing to open-source projects.
+
+Completion of relevant online courses or certifications in Python or web development (e.g., Python for Everybody, Git Essentials).
+
+Experience building personal projects or web applications demonstrating Python skills (e.g., Resume Screener Tools, Task Managers).
+
+
+
+Understanding of basic NLP concepts.
+
+
+Education:
+
+Bachelor's degree in Computer Science & Engineering , Diploma in Computer Science (In Progress), or equivalent practical experience.
+
+
+To Apply:
+Please submit your resume and a brief cover letter outlining your interest and relevant experience.
